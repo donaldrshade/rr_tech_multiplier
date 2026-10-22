@@ -1,0 +1,2 @@
+-- This file is required by the engine to boot the mod data phase.
+-- All changes are handled in data-final-fixes.lua to catch all modifications.

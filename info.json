@@ -5,8 +5,9 @@
   "author": "RedRiches",
   "factorio_version": "2.1",
   "description": "Dynamically scales technology research costs based on game milestones (Ages) to force factory expansion.",
+  "homepage": "https://github.com/donaldrshade/rr_tech_multiplier",
   "dependencies": [
-    "base >= 2.0.0",
-    "? space-age >= 2.0.0"
+    "base >= 2.1.0",
+    "? space-age >= 2.1.0"
   ]
 }
